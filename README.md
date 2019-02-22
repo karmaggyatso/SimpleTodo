@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<Video src='simpleTodo.mp4' width='' alt='Video Walkthrough' />
+<image src='walkThrough.gif' width='' alt='Video Walkthrough' />
 
 Video created with [DU Recorder](https://play.google.com/store/apps/details?id=com.duapps.recorder&hl=en_US).
 
